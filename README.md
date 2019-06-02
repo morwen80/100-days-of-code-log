@@ -11,6 +11,7 @@ This is the first round I'll try and keep a daily log here on Github, as well as
 
 Started the FreeCodeCamp project on building a Pomodoro Clock. I have created the frontend and I wanted to experiment with CSS, so it won't be mobile-friendly. I started working on the timer but got stuck. The timer has always been my problem. I need to find a library that will help me implementing this.
 
+------
 
 
 ### 2. May, 31 2019
@@ -19,6 +20,7 @@ Started the FreeCodeCamp project on building a Pomodoro Clock. I have created th
 I haven't found a working solution for the timer. I have tried different codes found online, but some run too fast or it was getting too complicated to stop once the stop button has being pressed.
 I will probably take a break tomorrow and working on something else.
 
+------
 
 ### 3. June, 1 2019
 **Project: Memory Card Game in Javascript | [Github](https://github.com/morwen80/bttf-memory-card)**
@@ -35,10 +37,14 @@ I've added a Play Again button which, in the JS code, shuffle the cards and set 
 I would also love to add a modal which will appear once the game is completed.
 Also, a dropdown menu where you can select the difficulty level. Every level would have a higher number of cards to match.
 
-
+------
 
 ### 4. June, 2 2019
 **Project: Memory Card Game in Javascript**
 I managed to implement a Modal with a message and as I'm writing I'm still working on a timer.
 I create a button for the user to start the counter but then I thought that it should start automatically once the first card is clicked...easier said than done. I should probably go back to the original idea.
 But I'm happy since I managed to create a couple of functions all by myself and I'm happy of what I've been learning.
+
+**THINGS I'VE LEARNED TODAY:**
+Inside a Javascript file, instead of adding or removing a class to activate some CSS style, I can simply add xxx.style.visibility = "visible" if, like in this case, there's an element with a property of visibility: hidden
+That was really helpful!
