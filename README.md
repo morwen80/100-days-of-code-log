@@ -34,3 +34,11 @@ I've added a Play Again button which, in the JS code, shuffle the cards and set 
 
 I would also love to add a modal which will appear once the game is completed.
 Also, a dropdown menu where you can select the difficulty level. Every level would have a higher number of cards to match.
+
+
+
+### 4. June, 2 2019
+**Project: Memory Card Game in Javascript**
+I managed to implement a Modal with a message and as I'm writing I'm still working on a timer.
+I create a button for the user to start the counter but then I thought that it should start automatically once the first card is clicked...easier said than done. I should probably go back to the original idea.
+But I'm happy since I managed to create a couple of functions all by myself and I'm happy of what I've been learning.
