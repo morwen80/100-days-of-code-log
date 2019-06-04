@@ -52,14 +52,25 @@ That was really helpful!
 ---
 
 ### 5) May, 31 2019
-**Project: Pomodoro Clock in React**
+**Project: Memory Card in Javascript **
 
 
-##IMPLEMENTATIONS:
+## IMPLEMENTATIONS:
 **TIMER:** I've been stuck working on a timer function. I have set a button PlayAgain, that would stop the timer, reset it to 0, but it doesn't work.
 The timer works fine when the page first loads, but after the modal is closed or/and when the playAgain button is clicked (they both trigger the same function), the timer doesn't start.
 
 **LEVELS:** I would love to create differet levels a user can select. I've added a dropdown menu with "easy", "medium" and "hard", and I've made some cards hidden as a test. Those will be visible when level "medium" will be selected.
 
 I couldn't focus too much since I had the final review for my Flatiron project. I finally graduated and I couldn't be happier!!
+
+------
+
+
+### 6) June, 1 2019
+**Project: Memory Card in Javascript **
+
+## IMPLEMENTATIONS:
+**TIMER:** I've been trying different solutions but I still have the same problem as yesterday. For the moment I will make the page reloads when clicking the button playAgain. This works fine since resets the whole page to the default state, but if I should decide to make the design a little bit more complicated I will be forced to find another solution.
+
+
 ------
